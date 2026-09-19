@@ -83,7 +83,7 @@ This project demonstrates practical experience in:
 
 ## 📷 Dashboard Preview
 
-A screenshot of the completed Power BI dashboard will be added to this repository.
+![Food Production & Environmental Impact Dashboard](Food-Production-Environmental-Impact-Dashboard.png)
 
 ## 📁 Project Files
 
